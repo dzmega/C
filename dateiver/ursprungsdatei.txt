@@ -1,0 +1,9 @@
+2;56;Strasser;Joachim 
+1;24;Otter;Michael 
+1;45;Kleister;Anneliese 
+3;19;Meier;Markus 
+2;35;Yaman;Katharina 
+1;16;Deuter;Sefer 
+2;55;Erkan;Yussuf 
+1;74;Tratz;Marina 
+3;55;Saalfeld;Luduwika 

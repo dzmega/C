@@ -1,0 +1,5 @@
+100000;0;1234;NilsZahn
+1300;0;0000;RenaRudolf 
+2000000;0;0205;DennisReich
+500;0;7896;DennisNeumüller 
+90;1;3434;DominikPlonka

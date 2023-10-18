@@ -1,0 +1,7 @@
+400;450;550;Trunstadt
+400;450;550;Schweinfurt
+320;400;500;Würzburg
+400;420;510;Steinbach
+400;450;550;Faulbach
+390;410;510;Kleinheubach
+400;420;510;Obernau

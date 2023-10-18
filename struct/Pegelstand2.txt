@@ -1,0 +1,7 @@
+242;Trunstadt
+276;Schweinfurt
+272;Würzburg
+239;Steinbach
+261;Faulbach
+262;Kleinheubach
+243;Obernau

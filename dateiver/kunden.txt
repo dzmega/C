@@ -1,0 +1,4 @@
+Michael;Otter;24
+Anneliese;Kleister;45
+Sefer;Deuter;16
+Marina;Tratz;74

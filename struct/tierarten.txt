@@ -1,0 +1,5 @@
+0;Katze
+1;Hund
+2;Fisch
+3;Nagetier
+4;Pferd

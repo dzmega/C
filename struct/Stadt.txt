@@ -1,0 +1,6 @@
+1;Hilton;Aschaffenburg;Zahn
+3;Maritim;Wuerzburg;Sebert
+1;ibis;Schweinfurt;Maier
+2;DeutscherHof;Bamberg;Koloskow
+3;Eremitage;Bayreuth;Magel
+

@@ -1,0 +1,5 @@
+0;2012;0;Hemm;Lisa
+4;2005;1;Heppenheimer;Henning
+1;2010;1;Feininger;Fiffi
+3;2013;0;Seubert;Olga
+0;2011;0;Koehler;Mietzi

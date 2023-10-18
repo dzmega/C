@@ -1,0 +1,4 @@
+1000;Tratz 
+2200.50;Mederer 
+1500;Mosner 
+4000.2;Weidinger 

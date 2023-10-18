@@ -1,0 +1,7 @@
+350;Trunstadt
+420;Schweinfurt
+501;Würzburg
+450;Steinbach
+455;Faulbach
+440;Kleinheubach
+450;Obernau

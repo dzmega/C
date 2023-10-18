@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+main()
+{
+	int zahl;
+
+	printf("Bitte Zahl eingeben");
+#include <stdio.h>
+
+main()
+{
+	int zahl;
+
+	printf("Bitte Zahl eingeben");
+

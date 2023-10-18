@@ -1,0 +1,7 @@
+10;Bananen
+5;Käse 
+30;Stahl 
+25;Tomaten 
+20;Esel 
+10;Pasta 
+25;Rindfleisch 

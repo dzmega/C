@@ -1,0 +1,2 @@
+Durchschnitt der Datei Erde.csv: 30618144.42
+Anzahl der Einträge: 237
